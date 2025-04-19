@@ -72,3 +72,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/Asset/Objects/Other/Textures/Cargo_container_v1.psd
+/[Aa]ssets/Asset/Objects/Other/Textures/MetallicSmoothness.tga
